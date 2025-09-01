@@ -1,3 +1,7 @@
+![Version](https://img.shields.io/npm/v/nexion-chat-sdk)
+![Downloads](https://img.shields.io/npm/dm/nexion-chat-sdk)
+![License](https://img.shields.io/npm/l/nexion-chat-sdk)
+
 # Nexion Chat SDK 💬
 
 Secure, encrypted chat SDK for React Native applications. Built for Web3 and crypto apps.
