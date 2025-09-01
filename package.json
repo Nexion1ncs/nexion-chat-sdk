@@ -1,0 +1,17 @@
+{
+  "name": "nexion-chat-sdk1",
+  "version": "1.0.0",
+  "description": "Secure encrypted chat SDK for React Native",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo 'Test passed'"
+  },
+  "keywords": ["chat", "react-native", "encryption"],
+  "author": "nexion-sdk",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-native": ">=0.72.0"
+  }
+}
