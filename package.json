@@ -5,13 +5,22 @@
   "main": "src/index.js",
   "type": "commonjs",
   "scripts": {
-    "test": "echo 'Test passed'"
+    "test": "echo 'Test passed'",
+    "build": "echo 'Build complete'",
+    "lint": "npx eslint src/"
   },
-  "keywords": ["chat", "react-native", "encryption"],
+  "keywords": [
+    "chat",
+    "react-native",
+    "encryption"
+  ],
   "author": "nexion-sdk",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=18.0.0",
     "react-native": ">=0.72.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1"
   }
 }
